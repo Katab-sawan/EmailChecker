@@ -12,6 +12,7 @@ public class emailPasswords {
 
 		FileReader myFile = new FileReader ("C:\\Users\\csmksawa\\eclipse-workspace\\EmailChecker\\passwordDatabase.txt");
 		//This is the vs code version
+		//Another version
 		Scanner userInput = new Scanner (myFile);
 		 Scanner scan = new Scanner (System.in);
        
