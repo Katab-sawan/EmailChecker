@@ -11,7 +11,7 @@ public class emailPasswords {
 		String file = "passwordDatabase.txt" ;
 
 		FileReader myFile = new FileReader ("C:\\Users\\csmksawa\\eclipse-workspace\\EmailChecker\\passwordDatabase.txt");
-		
+		//This is the vs code version
 		Scanner userInput = new Scanner (myFile);
 		 Scanner scan = new Scanner (System.in);
        
